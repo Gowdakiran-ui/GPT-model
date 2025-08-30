@@ -9,4 +9,3 @@
 
 ---
 
-Do you want me to **make this repo production-ready** (proper `input.txt`, tokenizer, and saving/loading checkpoints) or just keep it **minimal working GPT** for now?
